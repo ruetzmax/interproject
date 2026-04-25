@@ -8,4 +8,6 @@ The implementation of the project is distributed over multiple components:
 - A [C# / Unity app](https://github.com/ruetzmax/interproject-unity) to be displayed on a projector, containing the sample room furnishing application
 
 # Demo Video
-TBA
+https://github.com/user-attachments/assets/f0cbccd0-1179-4dff-8147-8ead8793b0d4
+
+
